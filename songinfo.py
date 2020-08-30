@@ -51,7 +51,7 @@ for year in range(YEAR_START, YEAR_END):
                 continue
             track_id = items[0]['id']
             track_ids_year.append(track_id)
-            print(row["Title"], track_id)
+            # print(row["Title"], track_id) # ! DEBUG
 
             if track_id not in tracks:
                 tracks[track_id] = {
