@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import urllib.request
 from urllib.request import urlopen
-import re
 import csv
 
 # top 100 from 1959 onwards
