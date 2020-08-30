@@ -1,2 +1,5 @@
 # exclude vscode settings file
 .vscode
+
+# exclude environment variables
+.env
