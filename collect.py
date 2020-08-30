@@ -4,12 +4,13 @@ from urllib.request import urlopen
 import re
 import csv
 
-YEAR_START = 2019
+# top 100 from 1959 onwards
+YEAR_START = 1969
 YEAR_CUR = 2020
 
 for year in range(YEAR_START, YEAR_CUR):
 
-    csv_rows = [['Title', 'Artist(s)', 'Artists Separately']]
+    csv_rows = [['Rank', 'Title', 'Artist(s)', 'Artists Separately']]
 
     url = 'https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_' + str(year)
 
@@ -18,18 +19,35 @@ for year in range(YEAR_START, YEAR_CUR):
 
     table = soup.find('table', {'class':'wikitable sortable'}).tbody
 
+    num = 1
     for row in table.find_all('tr'):
-        if (len(row.find_all('td')) == 2):
-            title_cell, artist_cell = row.find_all('td')
 
-            title = title_cell.find('a').getText()
+        # Handle different table formats
+        cells_found = False
+        if year >= 1982:
+            if len(row.find_all('td')) == 2:
+                title_cell, artist_cell = row.find_all('td')
+                cells_found = True
+        else:
+            if len(row.find_all('td')) == 3:
+                num_cell, title_cell, artist_cell = row.find_all('td')
+                cells_found = True
 
-            artist = artist_cell.text.strip() # artists as a string
-            artists_list = list(map(lambda x: x.getText(), artist_cell.find_all('a'))) # list of artists
+        if not cells_found:
+            continue
 
-            # create new row for the csv file
-            row = [title, artist] + artists_list
-            csv_rows.append(row)
+        # extract title and artist from their cells
+        title = title_cell.text.strip()
+
+        artist = artist_cell.text.strip() # artists as a string
+        artists_list = list(map(lambda x: x.getText(), artist_cell.find_all('a'))) # list of artists
+
+        # create new row for the csv file
+        row = [num, title, artist] + artists_list
+        csv_rows.append(row)
+
+        num += 1
+        # print(f'Title: {title}, Artist(s): {artist}', artists_list) # ! DEBUG
 
     # append all rows to new csv file
     csv_name = 'hot100files/' + str(year) + '.csv'
