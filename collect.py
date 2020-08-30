@@ -5,7 +5,7 @@ import re
 import csv
 
 # top 100 from 1959 onwards
-YEAR_START = 1969
+YEAR_START = 1959
 YEAR_CUR = 2020
 
 for year in range(YEAR_START, YEAR_CUR):
