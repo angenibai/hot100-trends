@@ -1,101 +1,678 @@
 title,artists
+"""I'm Gonna Get Married""",Lloyd Price
+"""Kookie, Kookie (Lend Me Your Comb)""",Edd Byrnes & Connie Stevens
+"""What a Diff'rence a Day Makes""",Dinah Washington
+"""What'd I Say""",Ray Charles
+"""Only You (And You Alone)""",Franck Pourcel
+"""I've Had It""",The Bell Notes
+"""Since I Don't Have You""",The Skyliners
+"""The Chipmunk Song (Christmas Don't Be Late)""",The Chipmunks
+"""The Deck of Cards""",Wink Martindale
+"""Three Stars""",Tommy Dee & Carol Kay
+"""You're So Fine""",The Falcons
+"""The Battle Hymn of the Republic""",Mormon Tabernacle Choir
+"""I'm Sorry""",Brenda Lee
+"""Walk, Don't Run""",The Ventures
+"""Baby (You've Got What It Takes)""",Dinah Washington & Brook Benton
+"""Because They're Young""",Duane Eddy
+"""Please Help Me, I'm Falling""",Hank Locklin
+"""He'll Have to Stay""",Jeanne Black
+"""The Old Lamp-Lighter""",The Browns
+"""Tracy's Theme""",Spencer Ross
+"""Don't Worry""",Marty Robbins
+"""Don't Bet Money Honey""",Linda Scott
+"""(I Don't Know Why) But I Do""","Clarence ""Frogman"" Henry"
+"""You Don't Know What You've Got (Until You Lose It)""",Ral Donner
+"""I've Told Every Little Star""",Linda Scott
+"""I'm Gonna Knock on Your Door""",Eddie Hodges
+"""I Can't Stop Loving You""",Ray Charles
+"""Don't Break the Heart That Loves You""",Connie Francis
+"""I Know (You Don't Love Me No More)""",Barbara George
+"""You Don't Know Me""",Ray Charles
+"""You'll Lose a Good Thing""",Barbara Lynn
+"""Teen Age Idol""",Rick Nelson
+"""PT-109""",Jimmy Dean
+"""I'll Never Dance Again""",Bobby Rydell
+"""I'm Blue (The Gong-Gong Song)""",The Ikettes
+"""Fingertips""",Little Stevie Wonder
+"""Can't Get Used to Losing You""",Andy Williams
+"""You're the Reason I'm Living""",Bobby Darin
+"""You Can't Sit Down""",The Dovells
+"""You've Really Got a Hold on Me""",The Miracles
+"""(You're the) Devil in Disguise""",Elvis Presley
+"""Mama Didn't Lie""",Jan Bradley
+"""Don't Say Nothin' Bad (About My Baby)""",The Cookies
+"""Hot Pastrami""",The Dartells
+"""We'll Sing in the Sunshine""",Gale Garnett
+"""Love Me with All Your Heart (Cuando Calienta El Sol)""",The Ray Charles Singers
+"""Don't Let the Rain Come Down (Crooked Little Man)""",The Serendipity Singers
+"""You Don't Own Me""",Lesley Gore
+"""Don't Let the Sun Catch You Crying""",Gerry and the Pacemakers
+"""C'mon and Swim""",Bobby Freeman
+"""Can't You See That She's Mine""",The Dave Clark Five
+"""I'm So Proud""",The Impressions
+"""(You Don't Know) How Glad I Am""",Nancy Wilson
+"""Don't Throw Your Love Away""",The Searchers
+"""Walk, Don't Run '64""",The Ventures
+"""There! I've Said It Again""",Bobby Vinton
+"""I Can't Help Myself (Sugar Pie Honey Bunch)""",Four Tops
+"""Can't You Hear My Heartbeat""",Herman's Hermits
+"""Mrs. Brown, You've Got a Lovely Daughter""",Herman's Hermits
+"""Yes, I'm Ready""",Barbara Mason
+"""Baby I'm Yours""",Barbara Lewis
+"""I'm Telling You Now""",Freddie and the Dreamers
+"""The Seventh Son""",Johnny Rivers
+"""I'm Henry the Eighth, I Am""",Herman's Hermits
+"""I'll Be Doggone""",Marvin Gaye
+"""Baby Don't Go""",Sonny & Cher
+"""It Ain't Me Babe""",The Turtles
+"""Don't Just Stand There""",Patty Duke
+"""You've Got Your Troubles""",The Fortunes
+"""Hold What You've Got""",Joe Tex
+"""I'm a Fool""","Dino, Desi & Billy"
+"""Keep Searchin' (We'll Follow the Sun)""",Del Shannon
+"""Reach Out I'll Be There""",Four Tops
+"""Ballad of the Green Berets""",SSgt. Barry Sadler
+"""You Can't Hurry Love""",The Supremes
+"""Li'l Red Riding Hood""",Sam the Sham and the Pharaohs
+"""You Don't Have To Say You Love Me""",Dusty Springfield
+"""Time Won't Let Me""",The Outsiders
+"""I'm So Lonesome I Could Cry""",B. J. Thomas & the Triumphs
+"""Ain't Too Proud to Beg""",The Temptations
+"""Crying Time""",Ray Charles
+"""Don't Mess with Bill""",The Marvelettes
+"""I'm Your Puppet""",James & Bobby Purify
+"""Oh How Happy""",The Shades of Blue
+"""Five O'Clock World""",The Vogues
+"""Devil with a Blue Dress On/Good Golly Miss Molly""",Mitch Ryder & the Detroit Wheels
+"""This Old Heart of Mine",The Isley Brothers
+"""Can't Take My Eyes off You""",Frankie Valli
+"""I Think We're Alone Now""",Tommy James and the Shondells
+"""Love Is Here and Now You're Gone""",The Supremes
+"""Don't You Care""",The Buckinghams
+"""I've Been Lonely Too Long""",The Young Rascals
+"""You're My Everything""",The Temptations
+"""(We Ain't Got) Nothin' Yet""",Blues Magoos
+"""She'd Rather Be with Me""",The Turtles
+"""Girl, You'll Be a Woman Soon""",Neil Diamond
+"""Ain't No Mountain High Enough""",Marvin Gaye & Tammi Terrell
+"""Little Ole Man (Uptight, Everything's Alright)""",Bill Cosby
+"""Don't Sleep in the Subway""",Petula Clark
+"""(Sweet Sweet Baby) Since You've Been Gone""",Aretha Franklin
+"""Ain't Nothing Like the Real Thing""",Marvin Gaye & Tammi Terrell
+"""I Wonder What She's Doing Tonight""",Tommy Boyce & Bobby Hart
+"""Goin' Out of My Head/Can't Take My Eyes Off You""",The Lettermen
+"""You're All I Need to Get By""",Marvin Gaye & Tammi Terrell
+"""Baby, Now That I've Found You""",The Foundations
+"""Say It Loud – I'm Black and I'm Proud""",James Brown
+"""I Can't Get Next to You""",The Temptations
+"""I'll Never Fall in Love Again""",Tom Jones
+"""Baby, Baby Don't Cry""",The Miracles
+"""You've Made Me So Very Happy""","Blood, Sweat & Tears"
+"""I'd Wait a Million Years""",The Grass Roots
+"""I've Gotta Be Me""",Sammy Davis Jr.
+"""It's Getting Better""","""Mama"" Cass Elliot"
+"""I'm Gonna Make You Mine""",Lou Christie
+"""Things I'd Like to Say""",New Colony Six
+"""Ruby, Don't Take Your Love to Town""",Kenny Rogers and The First Edition
+"""I'm Gonna Make You Love Me""",The Supremes & The Temptations
+"""Baby, I'm for Real""",The Originals
+"""Ain't No Mountain High Enough""",Diana Ross
+"""I'll Be There""",The Jackson 5
+"""Signed, Sealed, Delivered I'm Yours""",Stevie Wonder
+"""Give Me Just a Little More Time""",Chairmen of the Board
+"""He Ain't Heavy, He's My Brother""",The Hollies
+"""(I Know) I'm Losing You""",Rare Earth
+"""Still Water (Love)""",The Four Tops
+"""The House of the Rising Sun""",Frijid Pink
+"""United We Stand""",The Brotherhood of Man
+"""We've Only Just Begun""",The Carpenters
+"""(If You Let Me Make Love To You Then) Why Can't I Touch You?""",Ronnie Dyson
+"""I Just Can't Help Believing""",B.J. Thomas
+"""Somebody's Been Sleeping""",100 Proof (Aged in Soul)
+"""Without Love (There Is Nothing)""",Tom Jones
+"""I'll Never Fall in Love Again""",Dionne Warwick
+"""Look What They've Done to My Song Ma""",The New Seekers
+"""Maggie May""/""Reason to Believe""",Rod Stewart
+"""It's Too Late""/""I Feel the Earth Move""",Carole King
+"""You've Got a Friend""",James Taylor
+"""Superstar""",Murray Head & The Trinidad Singers
+"""I've Found Someone of My Own""",The Free Movement
+"""Chick-A-Boom (Don't Ya Jes' Love It)""",Daddy Dewdrop
+"""Don't Pull Your Love""","Hamilton, Joe Frank & Reynolds"
+"""It Don't Come Easy""",Ringo Starr
+"""That's the Way I've Always Heard It Should Be""",Carly Simon
+"""I Don't Know How to Love Him""",Helen Reddy
+"""Doesn't Somebody Want to Be Wanted""",The Partridge Family
+"""Beginnings""/""Colour My World""",Chicago
+"""Another Day""/""Oh Woman, Oh Why""",Paul McCartney
+"""She's Not Just Another Woman""",8th Day
+"""Easy Loving""",Freddie Hart
+"""Stick-Up""",Honey Cone
+"""When You're Hot, You're Hot""",Jerry Reed
+"""Don't Knock My Love""",Wilson Pickett
+"""Somos Novios (It's Impossible)""",Perry Como
+"""Daddy Don't You Walk So Fast""",Wayne Newton
+"""Brandy (You're a Fine Girl)""",Looking Glass
+"""(If Loving You Is Wrong) I Don't Want to Be Right""",Luther Ingram
+"""I'll Take You There""",The Staple Singers
+"""(Last Night) I Didn't Get to Sleep at All""",The 5th Dimension
+"""I'm Still in Love with You""",Al Green
+"""You Don't Mess Around with Jim""",Jim Croce
+"""Ain't Understanding Mellow""",Jerry Butler & Brenda Lee Eager
+"""Day by Day""",Original Cast of Godspell
+"""I'd Like to Teach the World to Sing (In Perfect Harmony)""",The New Seekers
+"""I'd Like to Teach the World to Sing (In Perfect Harmony)""",The Hillside Singers
+"""Tie a Yellow Ribbon Round the Ole Oak Tree""",Tony Orlando and Dawn
+"""My Love""",Paul McCartney & Wings
+"""You're So Vain""",Carly Simon
+"""We're an American Band""",Grand Funk Railroad
+"""I'm Gonna Love You Just a Little More Baby""",Barry White
+"""I'm Doin' Fine Now""",New York City
+"""Your Mama Don't Dance""",Loggins and Messina
+"""Ain't No Woman (Like the One I've Got)""",The Four Tops
+"""Jambalaya (On the Bayou)""",Blue Ridge Rangers
+"""Daisy a Day""",Jud Strunk
+"""Also Sprach Zarathustra (2001)""",Deodato
+"""Until You Come Back to Me (That's What I'm Gonna Do)""",Aretha Franklin
+"""Billy Don't Be a Hero""",Bo Donaldson and The Heywoods
+"""Band on the Run""",Paul McCartney and Wings
+"""(You're) Having My Baby""",Paul Anka
+"""I've Got to Use My Imagination""",Gladys Knight & the Pips
+"""Rikki Don't Lose That Number""",Steely Dan
+"""You Won't See Me""",Anne Murray
+"""Never, Never Gonna Give You Up""",Barry White
+"""(I've Been) Searchin' So Long""",Chicago
+"""Jet""",Paul McCartney and Wings
+"""Don't Let the Sun Go Down on Me""",Elton John
+"""I'm Leaving It Up to You""",Donny and Marie Osmond
+"""I'll Have to Say I Love You in a Song""",Jim Croce
+"""Don't You Worry 'bout a Thing""",Stevie Wonder
+"""Helen Wheels""",Paul McCartney and Wings
+"""Thank God I'm a Country Boy""",John Denver
+"""(Hey Won't You Play) Another Somebody Done Somebody Wrong Song""",B.J. Thomas
+"""He Don't Love You (Like I Love You)""",Tony Orlando and Dawn
+"""The Hustle""",Van McCoy & the Soul City Symphony
+"""Why Can't We Be Friends?""",War
+"""Love Won't Let Me Wait""",Major Harris
+"""I'm Not Lisa""",Jessi Colter
+"""I'm Not in Love""",10cc
+"""You're the First, the Last, My Everything""",Barry White
+"""You're No Good""",Linda Ronstadt
+"""Don't Call Us, We'll Call You""",Sugarloaf
+"""I Don't Like to Sleep Alone""",Paul Anka & Odia Coates
+"""I'm Sorry""",John Denver
+"""Do It ('Til You're Satisfied)""",B.T. Express
+"""Can't Get It Out of My Head""",Electric Light Orchestra
+"""The Rockford Files Theme""",Mike Post
+"""Junior's Farm""",Paul McCartney & Wings
+"""I'm on Fire""",Dwight Twilley Band
+"""You Ain't Seen Nothing Yet""",Bachman–Turner Overdrive
+"""Don't Go Breaking My Heart""",Elton John & Kiki Dee
+"""I'd Really Love to See You Tonight""",England Dan & John Ford Coley
+"""You'll Never Find Another Love Like Mine""",Lou Rawls
+"""Theme from Mahogany (Do You Know Where You're Going To)""",Diana Ross
+"""I'll Be Good to You""",The Brothers Johnson
+"""Baby Face""",Wing and a Prayer Fife and Drum Corps
+"""I'm Easy""",Keith Carradine
+"""Who'd She Coo?""",Ohio Players
+"""Disco Duck""",Rick Dees & His Cast of Idiots
+"""I'm Your Boogie Man""",KC and the Sunshine Band
+"""You Don't Have to Be a Star (To Be in My Show)""",Marilyn McCoo & Billy Davis Jr.
+"""Don't Give Up on Us""",David Soul
+"""Couldn't Get It Right""",Climax Blues Band
+"""I've Got Love on My Mind""",Natalie Cole
+"""I'm in You""",Peter Frampton
+"""Swayin' to the Music (Slow Dancing)""",Johnny Rivers
+"""Don't Stop""",Fleetwood Mac
+"""You're My World""",Helen Reddy
+"""Jeans On""",Lord David Dundas
+"""Ain't Gonna Bump No More (With No Big Fat Woman)""",Joe Tex
+"""Don't Worry Baby""",B.J. Thomas
+"""Star Wars (Main Title)""",London Symphony Orchestra
+"""Devil's Gun""",C.J. & Company
+"""You're the One That I Want""",John Travolta & Olivia Newton-John
+"""If I Can't Have You""",Yvonne Elliman
+"""We Will Rock You/We Are the Champions""",Queen
+"""Can't Smile Without You""",Barry Manilow
+"""Two Out of Three Ain't Bad""",Meat Loaf
+"""You're in My Heart (The Final Acclaim)""",Rod Stewart
+"""This Time I'm in It for Love""",Player
+"""Don't It Make My Brown Eyes Blue""",Crystal Gayle
+"""You Can't Turn Me Off (In The Middle Of Turning Me On)""",High Inergy
+"""Don't Look Back""",Boston
+"""I Can't Stand the Rain""",Eruption
+"""We're All Alone""",Rita Coolidge
+"""Da Ya Think I'm Sexy?""",Rod Stewart
+"""When You're in Love with a Beautiful Woman""",Dr. Hook
+"""You Don't Bring Me Flowers""",Neil Diamond & Barbra Streisand
+"""Don't Cry Out Loud""",Melissa Manchester
+"""Shake Your Groove Thing""",Peaches & Herb
+"""Mama Can't Buy You Love""",Elton John
+"""(Our Love) Don't Throw It All Away""",Andy Gibb
+"""What You Won't Do for Love""",Bobby Caldwell
+"""Chuck E.'s In Love""",Rickie Lee Jones
+"""Ain't No Stoppin' Us Now""",McFadden & Whitehead
+"""Disco Nights (Rock-Freak)""",GQ
+"""Ooo Baby Baby""",Linda Ronstadt
+"""Don't Bring Me Down""",Electric Light Orchestra
+"""Don't Stop 'til You Get Enough""",Michael Jackson
+"""We've Got Tonight""",Bob Seger & The Silver Bullet Band
+"""Another Brick in the Wall, Part II""",Pink Floyd
+"""Please Don't Go""",KC and the Sunshine Band
+"""With You I'm Born Again""",Billy Preston and Syreeta
+"""Yes, I'm Ready""",Teri DeSario & KC
+"""Cupid/I've Loved You for a Long Time""",The Spinners
+"""Don't Fall in Love with a Dreamer""",Kenny Rogers & Kim Carnes
+"""We Don't Talk Anymore""",Cliff Richard
+"""You're Only Lonely""",J.D. Souther
+"""Desire""",Andy Gibb
+"""Romeo's Tune""",Steve Forbert
+"""I Can't Tell You Why""",Eagles
+"""Don't Let Go""",Isaac Hayes
+"""Don't Do Me Like That""",Tom Petty and the Heartbreakers
+"""An American Dream""",The Dirt Band
+"""Should've Never Let You Go""",Neil & Dara Sedaka
+"""All Night Long""",Joe Walsh
+"""Theme from The Greatest American Hero (Believe It or Not)""",Joey Scarbury
+"""A Woman Needs Love (Just Like You Do)""",Raydio
+"""The Boy from New York City""",The Manhattan Transfer
+"""I Don't Need You""",Kenny Rogers
+"""The Breakup Song (They Don't Write 'Em)""",The Greg Kihn Band
+"""Ain't Even Done with the Night""",John Cougar
+"""I Can't Stand It""",Eric Clapton
+"""Don't Stand So Close to Me""",The Police
+"""I Ain't Gonna Stand for It""",Stevie Wonder
+"""It's Now or Never""",John Schneider
+"""You've Lost That Lovin' Feelin'""",Hall & Oates
+"""Really Wanna Know You""",Gary Wright
+"""I'm Coming Out""",Diana Ross
+"""Don't You Want Me""",The Human League
+"""Hard to Say I'm Sorry""",Chicago
+"""I Can't Go for That (No Can Do)""",Hall & Oates
+"""Don't Talk to Strangers""",Rick Springfield
+"""The Sweetest Thing (I've Ever Known)""",Juice Newton
+"""Think I'm in Love""",Eddie Money
+"""Don't Stop Believin'""",Journey
+"""I Keep Forgettin' (Every Time You're Near)""",Michael McDonald
+"""Goin' Down""",Greg Guidry
+"""Electric Avenue""",Eddy Grant
+"""You Can't Hurry Love""",Phil Collins
+"""We've Got Tonight""",Kenny Rogers and Sheena Easton
+"""Don't Let It End""",Styx
+"""I Won't Hold You Back""",Toto
+"""I'm Still Standing""",Elton John
+"""I'll Tumble 4 Ya""",Culture Club
+"""I've Got a Rock 'n' Roll Heart""",Eric Clapton
+"""Don't Cry""",Asia
+"""Say It Isn't So""",Hall & Oates
+"""If Ever You're in My Arms Again""",Peabo Bryson
+"""To All the Girls I've Loved Before""",Julio Iglesias and Willie Nelson
+"""Islands in the Stream""",Kenny Rogers and Dolly Parton
+"""Breakdance""",Irene Cara
+"""They Don't Know""",Tracey Ullman
+"""I Still Can't Get Over Loving You""",Ray Parker Jr.
+"""Can't Fight This Feeling""",REO Speedwagon
+"""Don't You (Forget About Me)""",Simple Minds
+"""You're the Inspiration""",Chicago
+"""We Don't Need Another Hero (Thunderdome)""",Tina Turner
+"""Don't Lose My Number""",Phil Collins
+"""I Can't Hold Back""",Survivor
+"""I'm on Fire""",Bruce Springsteen
+"""There'll Be Sad Songs (To Make You Cry)""",Billy Ocean
+"""I Can't Wait""",Nu Shooz
+"""You Give Love a Bad Name""",Bon Jovi
+"""Don't Forget Me (When I'm Gone)""",Glass Tiger
+"""I Didn't Mean to Turn You On""",Robert Palmer
+"""We Don't Have to Take Our Clothes Off""",Jermaine Stewart
+"""I'm Your Man""",Wham!
+"""Why Can't This Be Love""",Van Halen
+"""Silent Running (On Dangerous Ground)""",Mike + The Mechanics
+"""Take Me Home""",Phil Collins
+"""Spies Like Us""",Paul McCartney
+"""Dreamtime""",Daryl Hall
+"""I'll Be Over You""",Toto
+"""C'est La Vie""",Robbie Nevil
+"""Didn't We Almost Have It All""",Whitney Houston
+"""(I've Had) The Time of My Life""",Bill Medley and Jennifer Warnes
+"""Heart and Soul""",T'Pau
+"""I Knew You Were Waiting (For Me)""",Aretha Franklin and George Michael
+"""I Just Can't Stop Loving You""",Michael Jackson with Siedah Garrett
+"""Don't Mean Nothing""",Richard Marx
+"""Can't We Try""",Dan Hill featuring Vonda Shepard
+"""Mandolin Rain""",Bruce Hornsby and the Range
+"""I've Been in Love Before""",Cutting Crew
+"""Funkytown""",Pseudo Echo
+"""Anything for You""",Gloria Estefan and Miami Sound Machine
+"""I'll Always Love You""",Taylor Dayne
+"""A Hazy Shade of Winter""",The Bangles
+"""Don't Worry, Be Happy""",Bobby McFerrin
+"""I Don't Wanna Go on with You Like That""",Elton John
+"""Should've Known Better""",Richard Marx
+"""I Don't Wanna Live Without Your Love""",Chicago
+"""Don't You Want Me""",Jody Watley
+"""1-2-3""",Gloria Estefan and Miami Sound Machine
+"""Catch Me (I'm Falling)""",Pretty Poison
+"""If It Isn't Love""",New Edition
+"""Don't Be Cruel""",Cheap Trick
+"""The Valley Road""",Bruce Hornsby and the Range
+"""Don't Be Cruel""",Bobby Brown
+"""Don't Shed a Tear""",Paul Carrack
+"""I Don't Want to Live Without You""",Foreigner
+"""Don't You Know What the Night Can Do?""",Steve Winwood
+"""Can't Stay Away from You""",Gloria Estefan and Miami Sound Machine
+"""Baby, I Love Your Way/Freebird Medley""",Will to Power
+"""Don't Wanna Lose You""",Gloria Estefan
+"""Girl I'm Gonna Miss You""",Milli Vanilli
+"""I'll Be There for You""",Bon Jovi
+"""I'll Be Loving You (Forever)""",New Kids on the Block
+"""Baby Don't Forget My Number""",Milli Vanilli
+"""When I'm with You""",Sheriff
+"""Don't Rush Me""",Taylor Dayne
+"""My Heart Can't Tell You No""",Rod Stewart
+"""I Don't Want Your Love""",Duran Duran
+"""Rock Wit'cha""",Bobby Brown
+"""Thinking of You""",Sa-Fire
+"""What You Don't Know""",Exposé
+"""Don't Know Much""",Linda Ronstadt and Aaron Neville
+"""She Ain't Worth It""",Glenn Medeiros and Bobby Brown
+"""(Can't Live Without Your) Love and Affection""",Nelson
+"""Don't Wanna Fall in Love""",Jane Child
+"""We Didn't Start the Fire""",Billy Joel
+"""I Don't Have the Heart""",James Ingram
+"""I'll Be Your Everything""",Tommy Page
+"""No More Lies""",Michel'le
+"""U Can't Touch This""",MC Hammer
+"""Can't Stop""",After 7
+"""I'll Be Your Shelter""",Taylor Dayne
+"""Girls Nite Out""",Tyler Collins
+"""C'mon and Get My Love""",D Mob featuring Cathy Dennis
+"""We Can't Go Wrong""",The Cover Girls
+"""When I'm Back on My Feet Again""",Michael Bolton
+"""This One's for the Children""",New Kids on the Block
+"""Whole Wide World""",A'Me Lorain
+"""I Like the Way (The Kissing Game)""",Hi-Five
+"""Emotions""",Mariah Carey
+"""I Don't Wanna Cry""",Mariah Carey
+"""You're in Love""",Wilson Phillips
+"""It Ain't Over 'til It's Over""",Lenny Kravitz
+"""Here We Go""",C+C Music Factory
+"""P.A.S.S.I.O.N.""",Rythm Syndicate
+"""I'm Your Baby Tonight""",Whitney Houston
+"""Things That Make You Go Hmmm...""",C+C Music Factory
+"""Can't Stop This Thing We Started""",Bryan Adams
+"""I Can't Wait Another Minute""",Hi-Five
+"""I'll Be There""",The Escape Club
+"""I'll Give All My Love to You""",Keith Sweat
+"""I'm Not In Love""",Will to Power
+"""Just Another Dream""",Cathy Dennis
+"""My Lovin' (You're Never Gonna Get It)""",En Vogue
+"""I'm Too Sexy""",Right Said Fred
+"""I'll Be There""",Mariah Carey
+"""Sometimes Love Just Ain't Enough""",Patty Smyth and Don Henley
+"""Can't Let Go""",Mariah Carey
+"""Don't Let the Sun Go Down on Me""",George Michael and Elton John
+"""Ain't 2 Proud 2 Beg""",TLC
+"""The Best Things in Life Are Free""",Luther Vandross and Janet Jackson
+"""Please Don't Go""",KWS
+"""I'd Die Without You""",P.M. Dawn
+"""I Can't Dance""",Genesis
+"""Friday I'm in Love""",The Cure
+"""Thought I'd Died and Gone to Heaven""",Bryan Adams
+"""I Can't Make You Love Me""",Bonnie Raitt
+"""Can't Help Falling in Love""",UB40
+"""Don't Walk Away""",Jade
+"""I'm So Into You""",SWV
+"""I'll Never Get Over You (Getting Over Me)""",Exposé
+"""I'd Do Anything for Love (But I Won't Do That)""",Meat Loaf
+"""I'm Every Woman""",Whitney Houston
+"""Baby I'm Yours""",Shai
+"""I Don't Wanna Fight""",Tina Turner
+"""I'd Die Without You""",P.M. Dawn
+"""Ooh Child""",Dino
+"""Nothin' My Love Can't Fix""",Joey Lawrence
+"""Can't Get Enough of Your Love""",Taylor Dayne
+"""I'll Make Love to You""",Boyz II Men
+"""Don't Turn Around""",Ace of Base
+"""I'll Remember""",Madonna
+"""Without You"" / ""Never Forget You""",Mariah Carey
+"""I'd Do Anything for Love (But I Won't Do That)""",Meat Loaf
+"""I'm Ready""",Tevin Campbell
+"""Don't Take the Girl""",Tim McGraw
+"""I'm the Only One""",Melissa Etheridge
+"""I'll Take You There""",General Public
+"""Don't Take It Personal (Just One of Dem Days)""",Monica
+"""Boombastic"" / ""In the Summertime""",Shaggy
+"""You Gotta Be""",Des'ree
+"""I'll Be There for You/You're All I Need to Get By""",Method Man featuring Mary J. Blige
+"""I'm the Only One""",Melissa Etheridge
+"""I'll Make Love to You""",Boyz II Men
+"""Freek'n You""",Jodeci
+"""You Don't Know How It Feels""",Tom Petty
+"""Can't You See""",Total featuring The Notorious B.I.G.
+"""This Lil' Game We Play""",Subway featuring 702
+"""This Ain't a Love Song""",Bon Jovi
+"""Ask of You""",Raphael Saadiq
+"""Brown Sugar""",D'Angelo
+"""I'll Stand by You""",The Pretenders
+"""I Miss You""",N II U
+"""Can't Stop Lovin' You""",Van Halen
+"""Macarena (Bayside Boys Mix)""",Los del Río
+"""You're Makin' Me High"" / ""Let It Flow""",Toni Braxton
+"""C'mon N' Ride It (The Train)""",Quad City DJ's
+"""Follow You Down"" / ""Til I Hear It from You""",Gin Blossoms
+"""How Do U Want It"" / ""California Love""",2Pac featuring K-Ci and JoJo
+"""I Can't Sleep Baby (If I)""",R. Kelly
+"""You Learn"" / ""You Oughta Know""",Alanis Morissette
+"""You're the One""",SWV
+"""Before You Walk Out of My Life"" / ""Like This and Like That""",Monica
+"""Why I Love You So Much"" / ""Ain't Nobody""",Monica
+"""You'll See""",Madonna
+"""All the Things (Your Man Won't Do)""",Joe
+"""Theme from Mission: Impossible""",Adam Clayton and Larry Mullen
+"""If Your Girl Only Knew""",Aaliyah
+"""Lady""",D'Angelo
+"""Don't Cry""",Seal
+"""Foolish Games"" / ""You Were Meant for Me""",Jewel
+"""I'll Be Missing You""",Puff Daddy featuring Faith Evans and 112
+"""Can't Nobody Hold Me Down""",Puff Daddy featuring Mase
+"""Don't Let Go (Love)""",En Vogue
+"""Hard to Say I'm Sorry""",Az Yet featuring Peter Cetera
+"""Say You'll Be There""",Spice Girls
+"""I'm Still in Love with You""",New Edition
+"""I'll Be""",Foxy Brown featuring Jay-Z
+"""Up Jumps da Boogie""",Timbaland & Magoo featuring Missy Elliott and Aaliyah
+"""I Don't Want To"" / ""I Love Me Some Him""",Toni Braxton
+"""My Baby Daddy""",B-Rock and the Bizz
+"""ESPN Presents The Jock Jam""",Various Artists
+"""Macarena (Bayside Boys Mix)""",Los del Río
+"""Don't Wanna Be a Player""",Joe
+"""You Should Be Mine (Don't Waste Your Time)""",Brian McKnight featuring Mase
+"""Don't Cry for Me Argentina""",Madonna
+"""When You're Gone"" / ""Free to Decide""",The Cranberries
+"""I Like It""",The Blackout All-Stars
+"""You're Makin' Me High"" / ""Let It Flow""",Toni Braxton
+"""You're Still the One""",Shania Twain
+"""I Don't Want to Wait""",Paula Cole
+"""Been Around the World""",Puff Daddy featuring The Notorious B.I.G. and Mase
 """I Don't Want to Miss a Thing""",Aerosmith
-"""Blow Me (One Last Kiss)""",Pink
+"""I Don't Ever Want to See You Again""",Uncle Sam
+"""They Don't Know""",Jon B.
+"""Come with Me""",Puff Daddy featuring Jimmy Page
+"""Romeo and Juliet""",Sylk-E. Fyne featuring Chill
+"""We're Not Making Love No More""",Dru Hill
+"""Lately""",Divine
+"""Victory""",Puff Daddy featuring The Notorious B.I.G. and Busta Rhymes
+"""Turn It Up (Remix)/Fire It Up""",Busta Rhymes
+"""I'll Be""",Edwin McCain
+"""Foolish Games"" / ""You Were Meant for Me""",Jewel
+"""I'm Your Angel""",R. Kelly and Celine Dion
+"""Lately""",Divine
+"""That Don't Impress Me Much""",Shania Twain
+"""I Don't Want to Miss a Thing""",Mark Chesnutt
+"""Almost Doesn't Count""",Brandy
+"""A Lesson in Leavin'""",Jo Dee Messina
+"""Satisfy You""",Puff Daddy featuring R. Kelly
+"""He Wasn't Man Enough""",Toni Braxton
+"""Doesn't Really Matter""",Janet Jackson
+"""Most Girls""",Pink
+"""He Can't Love U""",Jagged Edge
+"""Faded""",soulDecision featuring Thrust
+"""What'chu Like""",Da Brat featuring Tyrese
+"""Don't Think I'm Not""",Kandi
+"""Bounce with Me""",Lil' Bow Wow featuring Xscape
+"""Cowboy Take Me Away""",Dixie Chicks
+"""I Don't Wanna""",Aaliyah
+"""I'm Real (Murder Remix)""",Jennifer Lopez featuring Ja Rule
+"""If You're Gone""",Matchbox Twenty
+"""Love Don't Cost a Thing""",Jennifer Lopez
+"""He Loves U Not""",Dream
+"""Don't Tell Me""",Madonna
+"""I'm Like a Bird""",Nelly Furtado
+"""There You'll Be""",Faith Hill
+"""No More (Baby I'ma Do Right)""",3LW
+"""Ain't Nothing 'bout You""",Brooks & Dunn
+"""I'm Already There""",Lonestar
+"""Grown Men Don't Cry""",Tim McGraw
+"""Don't Happen Twice""",Kenny Chesney
+"""I'm a Thug""",Trick Daddy
+"""You Shouldn't Kiss Me Like This""",Toby Keith
+"""Get Over Yourself""",Eden's Crush
+"""Most Girls""",Pink
+"""Ain't It Funny (Murder Remix)""",Jennifer Lopez featuring Ja Rule
+"""U Don't Have to Call""",Usher
+"""Get the Party Started""",Pink
+"""I'm Gonna Be Alright""",Jennifer Lopez featuring Nas
+"""Don't Let Me Get Me""",Pink
+"""Addictive""",Truth Hurts featuring Rakim
+"""Just Like a Pill""",Pink
+"""Down 4 U""","Ja Rule featuring Ashanti, Charli Baltimore and Vita"
 """Can't Get You Out of My Head""",Kylie Minogue
-"""We Don't Talk Anymore""",Charlie Puth featuring Selena Gomez
-"""Don't""",Ed Sheeran
-"""Baby I'm Back""",Baby Bash featuring Akon
+"""Move Bitch""",Ludacris featuring Mystikal and I-20
+"""Can't Fight the Moonlight""",LeAnn Rimes
+"""If I Could Go!""",Angie Martinez featuring Lil' Mo and Sacario
+"""Long Time Gone""",Dixie Chicks
+"""When I'm Gone""",3 Doors Down
+"""I'm with You""",Avril Lavigne
+"""Can't Let You Go""",Fabolous featuring Lil' Mo and Mike Shorey
+"""Don't Mess with My Man""",Nivea featuring Jagged Edge
+"""The Remedy (I Won't Worry)""",Jason Mraz
+"""Why Don't You & I""",Santana featuring Alex Band
+"""If You're Not the One""",Daniel Bedingfield
 """It's Five O'Clock Somewhere""",Alan Jackson featuring Jimmy Buffett
 """Can't Hold Us Down""",Christina Aguilera featuring Lil' Kim
-"""Who Says You Can't Go Home""",Bon Jovi featuring Jennifer Nettles
-"""Te Boté""","Nio García, Darell and Casper Mágico featuring Bad Bunny, Nicky Jam and Ozuna"
-"""Please Don't Go""",Mike Posner
+"""Don't Wanna Try""",Frankie J
+"""Can't Stop, Won't Stop""",Young Gunz
 """Don't Know Why""",Norah Jones
-"""The Way You Make Me Feel""",Micheal Jackson
-"""Honey, I'm Good.""",Andy Grammer
-"""I Can't Sleep Baby (If I)""",R. Kelly
-"""I Don't Fuck with You""",Big Sean featuring E-40
-"""I Don't Want to Be""",Gavin DeGraw
-"""He Loves U Not""",Dream
-"""Break Up with Your Girlfriend, I'm Bored""",Ariana Grande
-"""Where'd You Go""",Fort Minor featuring Holly Brook and Jonah Matranga
-"""Don't Wake Me Up""",Chris Brown
-"""Plain Jane""",ASAP Ferg featuring Nicki Minaj
-"""Don't""",Ed Sheeran
-"""Foolish Games"" / ""You Were Meant for Me""",Jewel
-"""Lately""",Divine
-"""Like I'm Gonna Lose You""",Meghan Trainor featuring John Legend
-"""I'll Be""",Foxy Brown featuring Jay-Z
-"""Highway Don't Care""",Tim McGraw featuring Taylor Swift and Keith Urban
-"""Can't Remember to Forget You""",Shakira featuring Rihanna
-"""I Don't Want This Night to End""",Luke Bryan
-"""When You're Mad""",Ne-Yo
-"""Stronger (What Doesn't Kill You)""",Kelly Clarkson
-"""Don't Let Me Down""",The Chainsmokers featuring Daya
-"""We Can't Stop""",Miley Cyrus
-"""There You'll Be""",Faith Hill
-"""Don't You Wanna Stay""",Jason Aldean featuring Kelly Clarkson
-"""Been Around the World""",Puff Daddy featuring The Notorious B.I.G. and Mase
-"""G.D.F.R.""",Flo Rida featuring Sage the Gemini and Lookas
-"""Can't Stop the Feeling!""",Justin Timberlake
-"""Don't Wanna Go Home""",Jason Derulo
-"""When I'm Gone""",Eminem
-"""I Don't Dance""",Lee Brice
-"""Don't Wanna Know""",Maroon 5 featuring Kendrick Lamar
-"""Can't Believe It""",T-Pain featuring Lil Wayne
-"""Can't Feel My Face""",The Weeknd
-"""I'm Already There""",Lonestar
-"""What About Us""",Pink
-"""Walk Me Home""",Pink
-"""Can't Hold Us""",Macklemore & Ryan Lewis featuring Ray Dalton
-"""Just Can't Get Enough""",The Black Eyed Peas
-"""Don't Phunk with My Heart""",The Black Eyed Peas
-"""I Don't Care""",Ed Sheeran and Justin Bieber
-"""The Sweetest Thing (I've Ever Known)""",Juice Newton
-"""Haven't Met You Yet""",Michael Bublé
-"""Like I'm Gonna Lose You""",Meghan Trainor featuring John Legend
-"""Un-Thinkable (I'm Ready)""",Alicia Keys
-"""Macarena (Bayside Boys Mix)""",Los del Río
-"""Stupid Girls""",Pink
-"""I'm the One""","DJ Khaled featuring Justin Bieber, Quavo, Chance the Rapper and Lil Wayne"
-"""Don't You Worry Child""",Swedish House Mafia featuring John Martin
-"""I'm Upset""",Drake
-"""Freek'n You""",Jodeci
-"""Ask of You""",Raphael Saadiq
 """If I Ain't Got You""",Alicia Keys
-"""Don't Mind""",Kent Jones
-"""You'll See""",Madonna
-"""I Don't Mind""",Usher featuring Juicy J
+"""I Don't Wanna Know""",Mario Winans featuring Enya and P. Diddy
+"""You Don't Know My Name""",Alicia Keys
 """I'm Still in Love with You""",Sean Paul featuring Sasha
-"""Lady""",D'Angelo
-"""Don't Lose My Number""",Phil Collins
-"""Big Shit Poppin' (Do It)""",T.I.
-"""I'm Sprung""",T-Pain
-"""Hold On, We're Going Home""",Drake featuring Majid Jordan
+"""Fuck It (I Don't Want You Back)""",Eamon
+"""U Should've Known Better""",Monica
 """Why Don't You & I""",Santana featuring Alex Band
+"""Don't Tell Me""",Avril Lavigne
+"""Don't Cha""",The Pussycat Dolls featuring Busta Rhymes
+"""Don't Phunk with My Heart""",The Black Eyed Peas
+"""Obsession (No Es Amor)""",Frankie J featuring Baby Bash
+"""Sugar, We're Goin Down""",Fall Out Boy
+"""Soul Survivor""",Young Jeezy featuring Akon
+"""I Don't Want to Be""",Gavin DeGraw
+"""Baby I'm Back""",Baby Bash featuring Akon
+"""U Don't Know Me""",T.I.
+"""Don't Lie""",The Black Eyed Peas
+"""I'm Sprung""",T-Pain
+"""Hips Don't Lie""",Shakira featuring Wyclef Jean
+"""Snap Yo Fingers""",Lil Jon featuring E-40 and Sean Paul
+"""Ain't No Other Man""",Christina Aguilera
+"""I'm 'n Luv (wit a Stripper)""",T-Pain featuring Mike Jones
+"""Where'd You Go""",Fort Minor featuring Holly Brook and Jonah Matranga
+"""Don't Forget About Us""",Mariah Carey
+"""Sugar, We're Goin Down""",Fall Out Boy
+"""Who Says You Can't Go Home""",Bon Jovi featuring Jennifer Nettles
+"""Call Me When You're Sober""",Evanescence
+"""Soul Survivor""",Young Jeezy featuring Akon
+"""When I'm Gone""",Eminem
+"""When You're Mad""",Ne-Yo
+"""Stupid Girls""",Pink
+"""I'm Sprung""",T-Pain
 """For You I Will (Confidence)""",Teddy Geiger
-"""I Don't Want To"" / ""I Love Me Some Him""",Toni Braxton
-"""Macarena (Bayside Boys Mix)""",Los del Río
+"""Big Girls Don't Cry""",Fergie
+"""Don't Matter""",Akon
+"""This Is Why I'm Hot""",Mims
+"""U + Ur Hand""",Pink
+"""This Ain't a Scene, It's an Arms Race""",Fall Out Boy
+"""What I've Done""",Linkin Park
+"""I'm a Flirt""",R. Kelly featuring T.I. and T-Pain
+"""Who Knew""",Pink
+"""Big Shit Poppin' (Do It)""",T.I.
+"""Go Getta""",Young Jeezy featuring R. Kelly
+"""Don't Stop the Music""",Rihanna
+"""Bust It Baby (Part 2)""",Plies featuring Ne-Yo
+"""Can't Believe It""",T-Pain featuring Lil Wayne
+"""Like You'll Never See Me Again""",Alicia Keys
+"""Big Girls Don't Cry""",Fergie
+"""Can't Help but Wait""",Trey Songz
+"""You're Gonna Miss This""",Trace Adkins
+"""Don't Trust Me""",3OH!3
+"""Please Don't Leave Me""",Pink
+"""Haven't Met You Yet""",Michael Bublé
+"""Club Can't Handle Me""",Flo Rida featuring David Guetta
+"""Live Like We're Dying""",Kris Allen
+"""Un-Thinkable (I'm Ready)""",Alicia Keys
+"""The Way You Make Me Feel""",Micheal Jackson
+"""Just Can't Get Enough""",The Black Eyed Peas
+"""Tonight (I'm Lovin' You)""",Enrique Iglesias featuring Ludacris and DJ Frank E
+"""Coming Home""",Diddy – Dirty Money featuring Skylar Grey
+"""I'm on One""","DJ Khaled featuring Drake, Rick Ross and Lil Wayne"
+"""Don't You Wanna Stay""",Jason Aldean featuring Kelly Clarkson
+"""Don't Wanna Go Home""",Jason Derulo
+"""She Ain't You""",Chris Brown
+"""Please Don't Go""",Mike Posner
+"""Stronger (What Doesn't Kill You)""",Kelly Clarkson
+"""I Won't Give Up""",Jason Mraz
+"""Blow Me (One Last Kiss)""",Pink
+"""Niggas in Paris""",Jay-Z and Kanye West
+"""Don't Wake Me Up""",Chris Brown
+"""5 O'Clock""",T-Pain featuring Wiz Khalifa and Lily Allen
+"""I Don't Want This Night to End""",Luke Bryan
+"""Can't Hold Us""",Macklemore & Ryan Lewis featuring Ray Dalton
+"""We Can't Stop""",Miley Cyrus
+"""Don't You Worry Child""",Swedish House Mafia featuring John Martin
+"""Hold On, We're Going Home""",Drake featuring Majid Jordan
+"""Fuckin' Problems""","ASAP Rocky featuring Drake, 2 Chainz and Kendrick Lamar"
+"""Highway Don't Care""",Tim McGraw featuring Taylor Swift and Keith Urban
+"""I'm Different""",2 Chainz
+"""Don't Tell 'Em""",Jeremih featuring YG
+"""Ain't It Fun""",Paramore
+"""Don't""",Ed Sheeran
+"""Hold On, We're Going Home""",Drake featuring Majid Jordan
+"""Can't Remember to Forget You""",Shakira featuring Rihanna
+"""I Don't Dance""",Lee Brice
+"""Can't Feel My Face""",The Weeknd
+"""Honey, I'm Good.""",Andy Grammer
+"""G.D.F.R.""",Flo Rida featuring Sage the Gemini and Lookas
+"""I Don't Fuck with You""",Big Sean featuring E-40
+"""I Don't Mind""",Usher featuring Juicy J
+"""Like I'm Gonna Lose You""",Meghan Trainor featuring John Legend
+"""Don't""",Ed Sheeran
+"""Don't Let Me Down""",The Chainsmokers featuring Daya
 """Can't Stop the Feeling!""",Justin Timberlake
 """Just Like Fire""",Pink
-"""She Ain't You""",Chris Brown
-"""Don't Matter""",Akon
-"""Sometimes Love Just Ain't Enough""",Patty Smyth and Don Henley
-"""Fuckin' Problems""","ASAP Rocky featuring Drake, 2 Chainz and Kendrick Lamar"
-"""Soul Survivor""",Young Jeezy featuring Akon
-"""I'm with You""",Avril Lavigne
-"""Snap Yo Fingers""",Lil Jon featuring E-40 and Sean Paul
-"""Go Getta""",Young Jeezy featuring R. Kelly
-"""Lately""",Divine
-"""If I Can't Have You""",Shawn Mendes
 """Don't""",Bryson Tiller
-"""Don't Trust Me""",3OH!3
-"""Big Girls Don't Cry""",Fergie
-"""Fuck It (I Don't Want You Back)""",Eamon
-"""Down 4 U""","Ja Rule featuring Ashanti, Charli Baltimore and Vita"
+"""Like I'm Gonna Lose You""",Meghan Trainor featuring John Legend
+"""Don't Mind""",Kent Jones
+"""We Don't Talk Anymore""",Charlie Puth featuring Selena Gomez
+"""Can't Feel My Face""",The Weeknd
+"""I'm the One""","DJ Khaled featuring Justin Bieber, Quavo, Chance the Rapper and Lil Wayne"
+"""Don't Wanna Know""",Maroon 5 featuring Kendrick Lamar
+"""Can't Stop the Feeling!""",Justin Timberlake
+"""What About Us""",Pink
 """Boo'd Up""",Ella Mai
-"""You Gotta Be""",Des'ree
-"""Niggas in Paris""",Jay-Z and Kanye West
-"""Who Knew""",Pink
-"""U Don't Know Me""",T.I.
-"""Don't Wanna Lose You""",Gloria Estefan
+"""Plain Jane""",ASAP Ferg featuring Nicki Minaj
+"""Te Boté""","Nio García, Darell and Casper Mágico featuring Bad Bunny, Nicky Jam and Ozuna"
+"""I'm Upset""",Drake
+"""I Don't Care""",Ed Sheeran and Justin Bieber
+"""If I Can't Have You""",Shawn Mendes
+"""Break Up with Your Girlfriend, I'm Bored""",Ariana Grande
+"""Walk Me Home""",Pink

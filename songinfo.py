@@ -36,7 +36,7 @@ for year in range(YEAR_START, YEAR_END):
                 break
             
             # construct query to search for the track id
-            query = 'track:' + row['Title'] + 'artist:'
+            query = 'track:' + row['Title'] + ' artist:'
             query += row['Artists Separately'] if row['Artists Separately'] else row['Artist(s)']
             query.replace(' ', '%20')
             results = sp.search(q=query, limit=1, type='track')
@@ -44,7 +44,7 @@ for year in range(YEAR_START, YEAR_END):
             items = results['tracks']['items']
             if len(items) < 1:
                 print(row['Title'], "no results found")
-                missing_tracks[line_count] = {
+                missing_tracks[f'{year}_{line_count}'] = {
                     'title':row['Title'],
                     'artists':row['Artist(s)']
                     }
@@ -52,7 +52,7 @@ for year in range(YEAR_START, YEAR_END):
                 continue
             if items[0]['type'] != 'track':
                 print("Found type", items[0]['type'])
-                missing_tracks[line_count] = {
+                missing_tracks[f'{year}_{line_count}'] = {
                     'title':row['Title'],
                     'artists':row['Artist(s)']
                     }
