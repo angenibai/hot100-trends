@@ -1,6 +1,5 @@
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-import json
 import csv
 import re
 
@@ -19,7 +18,7 @@ tracks = {}
 missing_tracks = {}
 
 # from 1959
-YEAR_START = 2019
+YEAR_START = 1959
 YEAR_END = 2020
 
 sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
@@ -33,28 +32,29 @@ for year in range(YEAR_START, YEAR_END):
         line_count = 0
         for row in reader:
 
-            if line_count >= 5:
+            if line_count >= 100:
                 break
             
             # construct query to search for the track id
-            query = 'track:' + row["Title"] + 'artist:' + row["Artists Separately"]
+            query = 'track:' + row['Title'] + 'artist:'
+            query += row['Artists Separately'] if row['Artists Separately'] else row['Artist(s)']
             query.replace(' ', '%20')
             results = sp.search(q=query, limit=1, type='track')
 
             items = results['tracks']['items']
             if len(items) < 1:
-                print(row["Title"], "no results found")
+                print(row['Title'], "no results found")
                 missing_tracks[line_count] = {
-                    'title':row["Title"],
-                    'artists':row["Artist(s)"]
+                    'title':row['Title'],
+                    'artists':row['Artist(s)']
                     }
                 line_count += 1
                 continue
             if items[0]['type'] != 'track':
                 print("Found type", items[0]['type'])
                 missing_tracks[line_count] = {
-                    'title':row["Title"],
-                    'artists':row["Artist(s)"]
+                    'title':row['Title'],
+                    'artists':row['Artist(s)']
                     }
                 line_count += 1
                 continue
@@ -64,12 +64,12 @@ for year in range(YEAR_START, YEAR_END):
 
             if track_id not in tracks:
                 tracks[track_id] = {
-                    'title':row["Title"],
-                    'artists':row["Artist(s)"],
+                    'title':row['Title'],
+                    'artists':row['Artist(s)'],
                     'year':year,
-                    'rank':row["Rank"]
+                    'rank':row['Rank']
                 }
-            elif row["Rank"] < tracks[track_id]['rank']:
+            elif row['Rank'] < tracks[track_id]['rank']:
                     tracks[track_id]['rank'] = row["Rank"]
                     tracks[track_id]['year'] = year
 
@@ -78,7 +78,7 @@ for year in range(YEAR_START, YEAR_END):
     all_audio_features = sp.audio_features(track_ids_year)
     for info in all_audio_features:
         track_id = info['id']
-        tracks[track_id]['id'] = track_id;
+        tracks[track_id]['id'] = track_id
         tracks[track_id]['uri'] = info['uri']
         tracks[track_id]['danceability'] = info['danceability']
         tracks[track_id]['energy'] = info['energy']
@@ -93,7 +93,6 @@ for year in range(YEAR_START, YEAR_END):
         tracks[track_id]['duration_ms'] = info['duration_ms']
 
     #print(tracks)
-    # all_audio_features = json.load(all_audio_features)
 
 # save all data into a master doc
 with open('master_doc.csv', mode='w') as f:
@@ -112,4 +111,4 @@ with open('missing.csv', mode='w') as f:
 
     writer.writeheader()
     for k in missing_tracks.keys():
-        writer.writerow(tracks[k])
+        writer.writerow(missing_tracks[k])
