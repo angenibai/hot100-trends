@@ -16,6 +16,7 @@ intToMode = {
 # trackid: {title, name, year, rank, tempo, time_signature, duration_ms, key, mode, acousticness, danceability, energy, instrumentalness, loudness, valence}
 # note year is year of highest rank
 tracks = {}
+missing_tracks = {}
 
 # from 1959
 YEAR_START = 2019
@@ -43,10 +44,18 @@ for year in range(YEAR_START, YEAR_END):
             items = results['tracks']['items']
             if len(items) < 1:
                 print(row["Title"], "no results found")
+                missing_tracks[line_count] = {
+                    'title':row["Title"],
+                    'artists':row["Artist(s)"]
+                    }
                 line_count += 1
                 continue
             if items[0]['type'] != 'track':
                 print("Found type", items[0]['type'])
+                missing_tracks[line_count] = {
+                    'title':row["Title"],
+                    'artists':row["Artist(s)"]
+                    }
                 line_count += 1
                 continue
             track_id = items[0]['id']
