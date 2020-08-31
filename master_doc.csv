@@ -1,0 +1,6 @@
+id,uri,title,artists,year,rank,tempo,time_signature,duration_ms,key,mode,acousticness,danceability,energy,instrumentalness,loudness,valence
+2YpeDb67231RjR0MgVLzsG,spotify:track:2YpeDb67231RjR0MgVLzsG,"""Old Town Road""",Lil Nas X featuring Billy Ray Cyrus,2019,1,136.041,4,157067,F#/Gb,major,0.0533,0.878,0.619,0,-5.56,0.639
+3KkXRkHbMCARz0aVfEt68P,spotify:track:3KkXRkHbMCARz0aVfEt68P,"""Sunflower""",Post Malone and Swae Lee,2019,2,89.911,4,158040,D,major,0.556,0.76,0.479,0,-5.574,0.913
+5p7ujcrUXASCNwRaWNHR1C,spotify:track:5p7ujcrUXASCNwRaWNHR1C,"""Without Me""",Halsey,2019,3,136.041,4,201661,F#/Gb,major,0.297,0.752,0.488,9.11e-06,-7.05,0.533
+2Fxmhks0bxGSBdJ92vM42m,spotify:track:2Fxmhks0bxGSBdJ92vM42m,"""Bad Guy""",Billie Eilish,2019,4,135.128,4,194088,G,major,0.328,0.701,0.425,0.13,-10.965,0.562
+7xQAfvXzm3AkraOtGPWIZg,spotify:track:7xQAfvXzm3AkraOtGPWIZg,"""Wow""",Post Malone,2019,5,99.96,4,149547,B,minor,0.136,0.829,0.539,1.78e-06,-7.359,0.388

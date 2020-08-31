@@ -13,7 +13,7 @@ intToMode = {
     0:'minor', 1:'major'
 }
 
-# trackid: {title, name, year, rank, tempo, time_signature, duration_ms, key, mode, acousticness, danceability, energy, instrumentalness, loudness, valence}
+# trackid: {title, artists, year, rank, tempo, time_signature, duration_ms, key, mode, acousticness, danceability, energy, instrumentalness, loudness, valence}
 # note year is year of highest rank
 tracks = {}
 missing_tracks = {}
@@ -78,6 +78,8 @@ for year in range(YEAR_START, YEAR_END):
     all_audio_features = sp.audio_features(track_ids_year)
     for info in all_audio_features:
         track_id = info['id']
+        tracks[track_id]['id'] = track_id;
+        tracks[track_id]['uri'] = info['uri']
         tracks[track_id]['danceability'] = info['danceability']
         tracks[track_id]['energy'] = info['energy']
         tracks[track_id]['key'] = intToKey[info['key']]
@@ -90,9 +92,24 @@ for year in range(YEAR_START, YEAR_END):
         tracks[track_id]['time_signature'] = info['time_signature']
         tracks[track_id]['duration_ms'] = info['duration_ms']
 
-    print(tracks)
+    #print(tracks)
     # all_audio_features = json.load(all_audio_features)
 
+# save all data into a master doc
+with open('master_doc.csv', mode='w') as f:
+    fieldnames = ['id', 'uri', 'title', 'artists', 'year', 'rank', 'tempo', 'time_signature', 'duration_ms', 'key', 'mode', 'acousticness', 'danceability', 'energy', 'instrumentalness', 'loudness', 'valence']
+    writer = csv.DictWriter(f, fieldnames=fieldnames)
+
+    writer.writeheader()
+    for k in tracks.keys():
+        writer.writerow(tracks[k])
 
 
+# save the missing ones as well
+with open('missing.csv', mode='w') as f:
+    fieldnames = ['title', 'artists']
+    writer = csv.DictWriter(f, fieldnames=fieldnames)
 
+    writer.writeheader()
+    for k in missing_tracks.keys():
+        writer.writerow(tracks[k])
