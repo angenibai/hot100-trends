@@ -38,7 +38,7 @@ for year in range(YEAR_START, YEAR_END):
             # construct query to search for the track id
             query = 'track:' + row['Title'] + ' artist:'
             query += row['Artists Separately'] if row['Artists Separately'] else row['Artist(s)']
-            query.replace(' ', '%20')
+            query = query.replace(' ', '%20')
             results = sp.search(q=query, limit=1, type='track')
 
             items = results['tracks']['items']

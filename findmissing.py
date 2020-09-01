@@ -19,13 +19,20 @@ missing_tracks = {}
 
 sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
 
-with open('missing_1.csv') as f:
+with open('missing.csv') as f:
     reader = csv.DictReader(f)
-
+    count = 0
     for row in reader:
+        if count > 5:
+            break
         title = row['title']
         title.replace('"','')
         artist = row['artist']
         first = artist.split(' ')[0]
 
-        query = 'track:' + title + ' artist:'
+        query = 'track:' + title + ' artist:' + first
+        query.replace(' ', '%20')
+
+        
+
+        count += 1
