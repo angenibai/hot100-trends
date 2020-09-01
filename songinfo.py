@@ -38,7 +38,6 @@ for year in range(YEAR_START, YEAR_END):
             # construct query to search for the track id
             query = 'track:' + row['Title'] + ' artist:'
             query += row['Artists Separately'] if row['Artists Separately'] else row['Artist(s)']
-            query = query.replace(' ', '%20')
             results = sp.search(q=query, limit=1, type='track')
 
             items = results['tracks']['items']
@@ -46,7 +45,9 @@ for year in range(YEAR_START, YEAR_END):
                 print(row['Title'], "no results found")
                 missing_tracks[f'{year}_{line_count}'] = {
                     'title':row['Title'],
-                    'artists':row['Artist(s)']
+                    'artists':row['Artist(s)'],
+                    'year':year,
+                    'rank':row['Rank']
                     }
                 line_count += 1
                 continue
@@ -54,7 +55,9 @@ for year in range(YEAR_START, YEAR_END):
                 print("Found type", items[0]['type'])
                 missing_tracks[f'{year}_{line_count}'] = {
                     'title':row['Title'],
-                    'artists':row['Artist(s)']
+                    'artists':row['Artist(s)'],
+                    'year':year,
+                    'rank':row['Rank']
                     }
                 line_count += 1
                 continue
@@ -70,7 +73,7 @@ for year in range(YEAR_START, YEAR_END):
                     'rank':row['Rank']
                 }
             elif row['Rank'] < tracks[track_id]['rank']:
-                    tracks[track_id]['rank'] = row["Rank"]
+                    tracks[track_id]['rank'] = row['Rank']
                     tracks[track_id]['year'] = year
 
             line_count += 1
@@ -106,7 +109,7 @@ with open('master_doc.csv', mode='w') as f:
 
 # save the missing ones as well
 with open('missing.csv', mode='w') as f:
-    fieldnames = ['title', 'artists']
+    fieldnames = ['title', 'artists', 'year', 'rank']
     writer = csv.DictWriter(f, fieldnames=fieldnames)
 
     writer.writeheader()

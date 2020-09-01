@@ -1775,6 +1775,7 @@ id,uri,title,artists,year,rank,tempo,time_signature,duration_ms,key,mode,acousti
 4ZoBC5MhSEzuknIgAkBaoT,spotify:track:4ZoBC5MhSEzuknIgAkBaoT,"""My Life""",Billy Joel,1979,28,131.097,4,284000,D,major,0.108,0.741,0.647,0.00139,-12.878,0.804
 55wl56WlKI85UBNZoFxe9P,spotify:track:55wl56WlKI85UBNZoFxe9P,"""Just When I Needed You Most""",Randy VanWarmer,1979,29,96.717,4,241747,A,major,0.615,0.583,0.313,0,-14.36,0.346
 25o8a6sIulpPexjDmh7CTV,spotify:track:25o8a6sIulpPexjDmh7CTV,"""You Can't Change That""",Raydio,1979,30,121.948,4,263767,F,major,0.99,0.597,0.143,0.901,-19.571,0.152
+5o89Bf80t8ko3uNXJkYoVs,spotify:track:5o89Bf80t8ko3uNXJkYoVs,"""Shake Your Groove Thing""",Peaches & Herb,1979,31,132.574,4,346133,A,major,0.415,0.863,0.726,0.0299,-6.649,0.93
 2rtZe8GV58BxCXJrBVmZbm,spotify:track:2rtZe8GV58BxCXJrBVmZbm,"""I'll Never Love This Way Again""",Dionne Warwick,1979,32,131.056,4,211225,D,major,0.146,0.384,0.36,6.51e-06,-10.733,0.251
 73V1mhbDb7K0lqlHB82iN5,spotify:track:73V1mhbDb7K0lqlHB82iN5,"""Love You Inside Out""",Bee Gees,1979,33,94.716,4,251333,B,minor,0.354,0.706,0.516,4.19e-06,-11.037,0.833
 1JkZg3eMQTmTn93E8Yd3UL,spotify:track:1JkZg3eMQTmTn93E8Yd3UL,"""I Want You to Want Me""",Cheap Trick,1979,34,92.726,4,191227,D,major,0.78,0.806,0.462,0.0134,-12.778,0.736
@@ -1882,6 +1883,7 @@ id,uri,title,artists,year,rank,tempo,time_signature,duration_ms,key,mode,acousti
 7dQC53NiYOY9gKg3Qsu2Bs,spotify:track:7dQC53NiYOY9gKg3Qsu2Bs,"""All Out of Love""",Air Supply,1980,55,108.381,4,243000,C,major,0.313,0.512,0.262,5.51e-06,-16.875,0.357
 1RaUxP6LHVAgbmLOn2naLl,spotify:track:1RaUxP6LHVAgbmLOn2naLl,"""Cool Change""",Little River Band,1980,56,128.527,4,313320,A,major,0.319,0.388,0.368,2.02e-06,-10.984,0.175
 0otlwsD3mSogk7VJCTp6Kg,spotify:track:0otlwsD3mSogk7VJCTp6Kg,"""Let My Love Open the Door""",Pete Townshend,1980,59,164.912,4,164653,C,major,0.365,0.651,0.653,0.000117,-9.731,0.729
+4kPLmTsTwA6wvtcbb0LtbM,spotify:track:4kPLmTsTwA6wvtcbb0LtbM,"""Romeo's Tune""",Steve Forbert,1980,60,95.027,4,212472,A,major,0.404,0.571,0.721,0.00961,-5.645,0.733
 6qnPCgHTRisbxBT19Gw7cN,spotify:track:6qnPCgHTRisbxBT19Gw7cN,"""Daydream Believer""",Anne Murray,1980,61,126.509,4,149293,A#/Bb,major,0.0171,0.593,0.538,2.8e-05,-8.292,0.579
 6NGsHLZYGVAkXTFr75WWnn,spotify:track:6NGsHLZYGVAkXTFr75WWnn,"""She's Out of My Life""",Michael Jackson,1980,65,130.959,4,218267,E,major,0.962,0.293,0.0348,0.000212,-23.92,0.101
 38JtOksjkWmr9vAylvvqs6,spotify:track:38JtOksjkWmr9vAylvvqs6,"""Fame""",Irene Cara,1980,66,130.652,4,319027,D#/Eb,major,0.0672,0.714,0.802,1.24e-05,-7.357,0.938
@@ -2396,6 +2398,7 @@ id,uri,title,artists,year,rank,tempo,time_signature,duration_ms,key,mode,acousti
 50jEs9EZZgXJ1oDZVAv7Wp,spotify:track:50jEs9EZZgXJ1oDZVAv7Wp,"""Take My Breath Away""",Berlin,1986,27,96.149,4,252000,F#/Gb,major,0.188,0.478,0.609,0,-13.201,0.579
 0DfG1ltJnZyq4Tx3ZLL7ZU,spotify:track:0DfG1ltJnZyq4Tx3ZLL7ZU,"""Rock Me Amadeus""",Falco,1986,28,176.737,4,202236,E,minor,0.296,0.61,0.817,0.00336,-9.45,0.889
 5FXogmNvmLoS6bWxHoau03,spotify:track:5FXogmNvmLoS6bWxHoau03,"""Papa Don't Preach""",Madonna,1986,29,118.029,4,173898,E,minor,0.956,0.788,0.322,0.898,-11.536,0.276
+0rmGAIH9LNJewFw7nKzZnc,spotify:track:0rmGAIH9LNJewFw7nKzZnc,"""You Give Love a Bad Name""",Bon Jovi,1986,30,122.803,4,222707,C,minor,0.0663,0.541,0.96,2.25e-06,-2.947,0.812
 5UU5FbITNm5OunvHQdsKME,spotify:track:5UU5FbITNm5OunvHQdsKME,"""When the Going Gets Tough, the Tough Get Going""",Billy Ocean,1986,31,122.047,4,248000,E,major,0.407,0.754,0.763,0,-6.318,0.932
 3mJ6pNcFM2CkykCYSREdKT,spotify:track:3mJ6pNcFM2CkykCYSREdKT,"""When I Think of You""",Janet Jackson,1986,32,116.207,4,235493,A,major,0.084,0.759,0.639,0.0331,-11.386,0.706
 1gN4wxYZXt7WBM2LAlS8MH,spotify:track:1gN4wxYZXt7WBM2LAlS8MH,"""These Dreams""",Heart,1986,33,79.034,4,255507,B,major,0.537,0.544,0.435,3.73e-06,-11.442,0.325
@@ -2447,10 +2450,12 @@ id,uri,title,artists,year,rank,tempo,time_signature,duration_ms,key,mode,acousti
 49XFzK6rmS6qahfX73tzkY,spotify:track:49XFzK6rmS6qahfX73tzkY,"""Baby Love""",Regina,1986,85,97.852,4,217587,D,minor,0.176,0.744,0.582,1.06e-06,-6.648,0.842
 638poNnWFgzt7UJBQ5SWtM,spotify:track:638poNnWFgzt7UJBQ5SWtM,"""Election Day""",Arcadia,1986,86,110.789,4,329107,D,major,0.000557,0.716,0.634,7.29e-05,-9.332,0.348
 3G0ENKW9vzV0SuYKaWFflI,spotify:track:3G0ENKW9vzV0SuYKaWFflI,"""Nikita""",Elton John,1986,87,86.605,4,343240,G,major,0.123,0.632,0.656,0.000264,-9.29,0.752
+2s6wCS3vDZFPY9NOTlPXJZ,spotify:track:2s6wCS3vDZFPY9NOTlPXJZ,"""Take Me Home""",Phil Collins,1986,88,118.796,4,353573,G#/Ab,major,0.471,0.62,0.807,0.108,-7.753,0.579
 6qUEOWqOzu1rLPUPQ1ECpx,spotify:track:6qUEOWqOzu1rLPUPQ1ECpx,"""Walk This Way""",Run–D.M.C. featuring Aerosmith,1986,89,105.598,4,309760,F#/Gb,minor,0.00796,0.759,0.578,8.18e-05,-12.56,0.944
 3Z6DV0jsGqCs4whsfda7lX,spotify:track:3Z6DV0jsGqCs4whsfda7lX,"""Sweet Love""",Anita Baker,1986,90,89.255,4,266201,A#/Bb,minor,0.36,0.504,0.728,0,-5.699,0.683
 1T4iwEA2ySieXjWxjiMVWs,spotify:track:1T4iwEA2ySieXjWxjiMVWs,"""Your Wildest Dreams""",Moody Blues,1986,91,141.362,4,291000,G,major,0.289,0.534,0.582,0.0338,-15.997,0.653
 63Ql2zSLiBryLRPihaUToK,spotify:track:63Ql2zSLiBryLRPihaUToK,"""Object of My Desire""",Starpoint,1986,93,116.122,4,306453,F,minor,0.0412,0.78,0.695,0.0036,-10.906,0.887
+7kZZ2Hmkg1zfwrQLsmypNE,spotify:track:7kZZ2Hmkg1zfwrQLsmypNE,"""Dreamtime""",Daryl Hall,1986,94,121.675,4,285093,G,major,0.0333,0.617,0.773,1.46e-06,-10.03,0.794
 1WtkrKWpfFx75erK1VqtQh,spotify:track:1WtkrKWpfFx75erK1VqtQh,"""Tender Love""",Force MDs,1986,95,142.631,4,234053,G#/Ab,major,0.765,0.34,0.336,0.000114,-7.288,0.0932
 0tBo8Uj7BmK3E5UBVhON2v,spotify:track:0tBo8Uj7BmK3E5UBVhON2v,"""King for a Day""",Thompson Twins,1986,96,109.1,4,318147,E,major,0.102,0.71,0.778,1.39e-05,-7.473,0.633
 6nbi2AJ9hAi2SE8jH6mRKV,spotify:track:6nbi2AJ9hAi2SE8jH6mRKV,"""Love Will Conquer All""",Lionel Richie,1986,97,98.043,4,340987,D,minor,0.169,0.79,0.443,1.68e-06,-10.078,0.646
@@ -2814,6 +2819,7 @@ id,uri,title,artists,year,rank,tempo,time_signature,duration_ms,key,mode,acousti
 1SkJ8HjZUZRPYT3R2rh5sA,spotify:track:1SkJ8HjZUZRPYT3R2rh5sA,"""Love Will Never Do (Without You)""",Janet Jackson,1991,19,103.17,4,350000,C#/Db,major,0.139,0.739,0.951,0.0062,-8.863,0.551
 5hWdgGVcfTeLPAiHM6EZG9,spotify:track:5hWdgGVcfTeLPAiHM6EZG9,"""Good Vibrations""",Marky Mark and the Funky Bunch featuring Loleatta Holloway,1991,20,121.656,4,269307,C#/Db,major,0.00189,0.711,0.951,0.366,-8.406,0.903
 6BWRvw630R8z2vNMok6quI,spotify:track:6BWRvw630R8z2vNMok6quI,"""Justify My Love""",Madonna,1991,21,99.642,4,294267,C#/Db,major,0.00244,0.705,0.821,0.684,-7.085,0.456
+0cELvuwJW1acISUHYB6suj,spotify:track:0cELvuwJW1acISUHYB6suj,"""Emotions""",Mariah Carey,1991,22,114.851,4,248093,A,minor,0.0411,0.741,0.752,0.0012,-7.009,0.942
 3Skwc4sh1QHUGcWrFBFWSF,spotify:track:3Skwc4sh1QHUGcWrFBFWSF,"""Joyride""",Roxette,1991,23,102.233,4,241733,D,major,0.0862,0.651,0.74,0,-6.244,0.615
 1eDCizNe4EQMj7okkjIeXo,spotify:track:1eDCizNe4EQMj7okkjIeXo,"""Romantic""",Karyn White,1991,24,110.264,4,247160,C#/Db,minor,0.484,0.68,0.941,7.43e-05,-7.509,0.823
 0otWaD7P1jqYsb0qSHNo6J,spotify:track:0otWaD7P1jqYsb0qSHNo6J,"""Hold You Tight""",Tara Kemp,1991,25,100.054,4,284345,C#/Db,major,0.0545,0.739,0.675,0.0112,-9.194,0.643
@@ -3118,7 +3124,7 @@ id,uri,title,artists,year,rank,tempo,time_signature,duration_ms,key,mode,acousti
 5o8gWPZxr4GZFslU85YMmu,spotify:track:5o8gWPZxr4GZFslU85YMmu,"""Beautiful in My Eyes""",Joshua Kadison,1994,79,141.947,4,249493,D#/Eb,major,0.595,0.582,0.381,1.1e-05,-10.045,0.283
 1Y6iRDToWzv9xAnnI73Ou4,spotify:track:1Y6iRDToWzv9xAnnI73Ou4,"""Stay""",Eternal,1994,80,100.974,4,404395,C#/Db,major,0.0031,0.776,0.485,0.00267,-10.332,0.843
 5PbFD3AIyunz5HxocduA9e,spotify:track:5PbFD3AIyunz5HxocduA9e,"""Flava in Ya Ear""",Craig Mack,1994,81,177.371,4,302013,A,major,0.272,0.52,0.847,0,-5.3,0.799
-4OxXBAN51tjVBEjSwuWWbv,spotify:track:4OxXBAN51tjVBEjSwuWWbv,"""U.N.I.T.Y.""",Queen Latifah,1994,82,94.126,4,250840,E,minor,0.0149,0.679,0.468,1.46e-06,-11.768,0.503
+3mmbJnh1L94Zl8QZcUTq39,spotify:track:3mmbJnh1L94Zl8QZcUTq39,"""U.N.I.T.Y.""",Queen Latifah,1994,82,93.796,4,251907,E,minor,0.00561,0.659,0.738,0,-4.077,0.516
 7pzWp50ZQXM44dfDbyMY9l,spotify:track:7pzWp50ZQXM44dfDbyMY9l,"""Prayer for the Dying""",Seal,1994,83,99.903,4,330267,F,major,0.332,0.306,0.762,0.00605,-7.519,0.15
 15FcP9qwmIKqaD5NhfhNpu,spotify:track:15FcP9qwmIKqaD5NhfhNpu,"""Secret""",Madonna,1995,71,99.982,4,304933,C#/Db,major,0.101,0.813,0.655,6.65e-05,-7.884,0.46
 3DWS2ZgcoQgfFm7uEnzYMI,spotify:track:3DWS2ZgcoQgfFm7uEnzYMI,"""Here Comes the Hotstepper""",Ini Kamoze,1995,24,100.352,4,250427,G,major,0.0159,0.888,0.462,0.000218,-8.615,0.435
@@ -3874,7 +3880,7 @@ id,uri,title,artists,year,rank,tempo,time_signature,duration_ms,key,mode,acousti
 4hHXhCRSnOKd6nMGaivmD0,spotify:track:4hHXhCRSnOKd6nMGaivmD0,"""Hotel""",Cassidy featuring R. Kelly,2004,32,91.259,4,247040,C,major,0.118,0.68,0.659,0,-6.855,0.411
 2nLtzopw4rPReszdYBJU6h,spotify:track:2nLtzopw4rPReszdYBJU6h,"""Numb""",Linkin Park,2004,33,110.018,4,185587,A,major,0.0046,0.496,0.863,0,-4.153,0.243
 5dxHF4lrDimKqnI3GaZUmC,spotify:track:5dxHF4lrDimKqnI3GaZUmC,"""Diary""",Alicia Keys featuring Tony! Toni! Toné!,2004,34,127.932,4,284160,G#/Ab,minor,0.559,0.664,0.465,0.00174,-9.711,0.281
-4llK75pXNWZz6KAho2Gp16,spotify:track:4llK75pXNWZz6KAho2Gp16,"""She Will Be Loved""",Maroon 5,2004,35,102.0,4,259453,C,minor,0.228,0.651,0.663,0,-5.569,0.465
+1Gkstaf4YxlimwaIawjI4B,spotify:track:1Gkstaf4YxlimwaIawjI4B,"""She Will Be Loved""",Maroon 5,2004,35,102.049,4,257987,C,minor,0.0544,0.7,0.719,0,-5.366,0.554
 3adnLFXKO5rC1lhUNSeg3N,spotify:track:3adnLFXKO5rC1lhUNSeg3N,"""White Flag""",Dido,2004,36,170.111,4,240600,F,major,0.306,0.509,0.538,5.03e-06,-6.835,0.284
 2mQ1RBK7s87mdPCzh97RSH,spotify:track:2mQ1RBK7s87mdPCzh97RSH,"""Heaven""",Los Lonely Boys,2004,37,91.91,4,227347,F#/Gb,major,0.378,0.664,0.862,4.19e-06,-5.403,0.782
 2fOxxLz9JVe53itq6pfBak,spotify:track:2fOxxLz9JVe53itq6pfBak,"""It's My Life""",No Doubt,2004,38,126.316,4,225867,G#/Ab,minor,0.00264,0.606,0.75,0.000788,-4.535,0.771
@@ -3883,7 +3889,7 @@ id,uri,title,artists,year,rank,tempo,time_signature,duration_ms,key,mode,acousti
 2s0ouHqJebHfiQ6C1GUFJd,spotify:track:2s0ouHqJebHfiQ6C1GUFJd,"""Milkshake""",Kelis,2004,41,112.997,4,182627,C#/Db,major,0.00862,0.891,0.77,0.0315,-6.124,0.819
 2T8hXV9LUZMDBKR5RALGEa,spotify:track:2T8hXV9LUZMDBKR5RALGEa,"""Splash Waterfalls""",Ludacris,2004,42,145.894,4,290760,B,major,0.101,0.734,0.846,0,-6.102,0.702
 5g1vtHqi9uV7xtYeCcFOBx,spotify:track:5g1vtHqi9uV7xtYeCcFOBx,"""Jesus Walks""",Kanye West,2004,43,87.312,4,193733,D#/Eb,minor,0.614,0.637,0.834,0,-4.686,0.715
-2Yti3Y3AyJuKYS6kp2grBi,spotify:track:2Yti3Y3AyJuKYS6kp2grBi,"""Locked Up""",Akon featuring Styles P,2004,44,89.971,4,234907,G,major,0.0234,0.82,0.572,0,-4.426,0.376
+0lDJSi7ADN6Lq6cuVk95gm,spotify:track:0lDJSi7ADN6Lq6cuVk95gm,"""Locked Up""",Akon featuring Styles P,2004,44,89.971,4,234907,G,major,0.0234,0.82,0.572,0,-4.426,0.376
 5SkRLpaGtvYPhw02vZhQQ9,spotify:track:5SkRLpaGtvYPhw02vZhQQ9,"""All Falls Down""",Kanye West featuring Syleena Johnson,2004,47,91.03,4,223507,G#/Ab,minor,0.149,0.657,0.734,0,-4.832,0.434
 6I9VzXrHxO9rA9A5euc8Ak,spotify:track:6I9VzXrHxO9rA9A5euc8Ak,"""Toxic""",Britney Spears,2004,48,143.04,4,198800,F,minor,0.0249,0.774,0.838,0.025,-3.914,0.924
 4Kd0FzFpOgIGxlBl4HXuFn,spotify:track:4Kd0FzFpOgIGxlBl4HXuFn,"""Salt Shaker""",Ying Yang Twins featuring Lil Jon & the East Side Boyz,2004,49,101.965,4,252440,B,major,0.0509,0.884,0.697,0,-6.022,0.322
@@ -4072,7 +4078,7 @@ id,uri,title,artists,year,rank,tempo,time_signature,duration_ms,key,mode,acousti
 6giYNaycmjkbf7UmZ6RGtL,spotify:track:6giYNaycmjkbf7UmZ6RGtL,"""I Know You See It""",Yung Joc,2006,70,84.018,4,241307,C#/Db,major,0.0702,0.744,0.368,0,-6.349,0.391
 3hc7PLcmuZbJGPjhIore1i,spotify:track:3hc7PLcmuZbJGPjhIore1i,"""Too Little Too Late""",JoJo,2006,72,82.764,4,223533,F#/Gb,minor,0.00302,0.394,0.821,0.019,-4.304,0.509
 3HVJbdz0V402U5YggQK4Ao,spotify:track:3HVJbdz0V402U5YggQK4Ao,"""Touch It""",Busta Rhymes,2006,73,138.335,5,214960,C#/Db,major,0.0043,0.658,0.551,0.000108,-6.62,0.442
-5uUHFpX2WCSVXmyQQgod8j,spotify:track:5uUHFpX2WCSVXmyQQgod8j,"""Rompe""",Daddy Yankee,2006,74,176.064,4,189040,C#/Db,minor,0.0358,0.687,0.806,5.83e-06,-6.019,0.534
+5CHTWhuzwbzBPtCcmE70Nx,spotify:track:5CHTWhuzwbzBPtCcmE70Nx,"""Rompe""",Daddy Yankee,2006,74,176.064,4,189040,C#/Db,minor,0.0358,0.687,0.806,5.83e-06,-6.019,0.534
 423EcxblW9F4nnQkqcqMlK,spotify:track:423EcxblW9F4nnQkqcqMlK,"""Déjà Vu""",Beyoncé featuring Jay-Z,2006,75,105.253,4,240280,G,major,0.0071,0.644,0.746,1.22e-05,-4.941,0.355
 2Fs18NaCDuluPG1DHGw1XG,spotify:track:2Fs18NaCDuluPG1DHGw1XG,"""Life Is a Highway""",Rascal Flatts,2006,76,103.027,4,276320,F,major,0.00324,0.582,0.952,0,-3.848,0.655
 3lec3CzDPAxsZokPph5w87,spotify:track:3lec3CzDPAxsZokPph5w87,"""Jesus, Take the Wheel""",Carrie Underwood,2006,78,76.572,4,226493,D,major,0.665,0.359,0.518,0,-3.537,0.135
@@ -4174,7 +4180,7 @@ id,uri,title,artists,year,rank,tempo,time_signature,duration_ms,key,mode,acousti
 7wZUrN8oemZfsEd1CGkbXE,spotify:track:7wZUrN8oemZfsEd1CGkbXE,"""Bleeding Love""",Leona Lewis,2008,2,104.036,4,262467,F,major,0.188,0.638,0.656,0,-5.886,0.225
 4P7VFiaZb3xrXoqGwZXC3J,spotify:track:4P7VFiaZb3xrXoqGwZXC3J,"""Lollipop""",Lil Wayne featuring Static Major,2008,4,148.075,4,299333,C,major,0.056,0.829,0.428,0.00413,-9.469,0.45
 1jUA4rb6ZCv4gby4YU53xq,spotify:track:1jUA4rb6ZCv4gby4YU53xq,"""No Air""",Jordin Sparks and Chris Brown,2008,6,160.033,4,264373,G#/Ab,minor,0.0521,0.466,0.759,0,-4.978,0.328
-4E6cwWJWZw2zWf7VFbH7wf,spotify:track:4E6cwWJWZw2zWf7VFbH7wf,"""Love Song""",Sara Bareilles,2008,7,123.052,4,258827,D,minor,0.0208,0.583,0.786,0,-3.142,0.573
+4E6cwWJWZw2zWf7VFbH7wf,spotify:track:4E6cwWJWZw2zWf7VFbH7wf,"""Love Song""",Sara Bareilles,2008,7,123.055,4,258827,D,minor,0.0208,0.583,0.786,0,-3.142,0.573
 5j0McHPthKpOXRr3fBq8M0,spotify:track:5j0McHPthKpOXRr3fBq8M0,"""Love in This Club""",Usher featuring Young Jeezy,2008,8,140.012,4,259720,C,major,0.0572,0.573,0.712,0,-5.976,0.346
 5Lgcn7u07bHuqbOtXkN62u,spotify:track:5Lgcn7u07bHuqbOtXkN62u,"""With You""",Chris Brown,2008,9,86.009,4,252120,D#/Eb,major,0.134,0.662,0.693,0,-4.298,0.655
 3NZJlJemX3mzjf56MqC5ML,spotify:track:3NZJlJemX3mzjf56MqC5ML,"""Forever""",Chris Brown,2008,10,120.005,4,278573,B,major,0.0368,0.672,0.82,0.000188,-4.456,0.438
@@ -4256,7 +4262,7 @@ id,uri,title,artists,year,rank,tempo,time_signature,duration_ms,key,mode,acousti
 11WuptzKtcVfPMYaf5aook,spotify:track:11WuptzKtcVfPMYaf5aook,"""She Got It""",2 Pistols featuring T-Pain and Tay Dizm,2008,100,134.068,4,274053,A#/Bb,minor,0.00436,0.53,0.745,0,-6.19,0.269
 0MDmWhBWPxDmcMYuAdGwGZ,spotify:track:0MDmWhBWPxDmcMYuAdGwGZ,"""Boom Boom Pow""",The Black Eyed Peas,2009,1,130.014,4,254769,G,major,0.00287,0.897,0.711,1.93e-05,-8.285,0.598
 4FYPZKCVAiLjij5xzLmv5u,spotify:track:4FYPZKCVAiLjij5xzLmv5u,"""Poker Face""",Lady Gaga,2009,2,119.002,4,242027,E,major,0.108,0.83,0.794,1.49e-06,-5.935,0.767
-4Ig3K9FcvvmwV7wlrCIv8Y,spotify:track:4Ig3K9FcvvmwV7wlrCIv8Y,"""Just Dance""",Lady Gaga featuring Colby O'Donis,2009,3,119.0,4,242400,C#/Db,minor,0.0531,0.789,0.725,8.07e-06,-5.507,0.653
+3U5QlM4MSfpUnozhfrtXdp,spotify:track:3U5QlM4MSfpUnozhfrtXdp,"""Just Dance""",Lady Gaga featuring Colby O'Donis,2009,3,119.0,4,242400,C#/Db,minor,0.0531,0.789,0.725,8.07e-06,-5.507,0.653
 1XduhVDrsLuMWk0fT0kbOx,spotify:track:1XduhVDrsLuMWk0fT0kbOx,"""I Gotta Feeling""",The Black Eyed Peas,2010,29,127.979,4,312893,G,major,0.00541,0.534,0.863,0.0465,-5.359,0.5
 3GpbwCm3YxiWDvy29Uo3vP,spotify:track:3GpbwCm3YxiWDvy29Uo3vP,"""Right Round""",Flo Rida,2009,6,124.986,4,204640,G,major,0.009,0.72,0.672,0,-6.852,0.705
 5R9a4t5t5O0IsznsrKPVro,spotify:track:5R9a4t5t5O0IsznsrKPVro,"""Single Ladies (Put a Ring on It)""",Beyoncé,2009,8,193.437,4,193213,C#/Db,major,0.0383,0.426,0.584,0,-5.293,0.272
@@ -4353,7 +4359,7 @@ id,uri,title,artists,year,rank,tempo,time_signature,duration_ms,key,mode,acousti
 59dLtGBS26x7kc0rHbaPrq,spotify:track:59dLtGBS26x7kc0rHbaPrq,"""Nothin' on You""",B.o.B featuring Bruno Mars,2010,11,103.993,4,268320,A#/Bb,major,0.386,0.688,0.853,0,-5.814,0.743
 4nVyHATevhl5RC6Qmoko5H,spotify:track:4nVyHATevhl5RC6Qmoko5H,"""I Like It""",Enrique Iglesias featuring Pitbull,2010,12,129.011,4,231787,A#/Bb,minor,0.0209,0.646,0.94,0,-2.856,0.704
 3iL2l5gUqyPS6vDwJFgJTR,spotify:track:3iL2l5gUqyPS6vDwJFgJTR,"""BedRock""",Young Money featuring Lloyd,2010,13,148.005,4,288133,G#/Ab,major,0.102,0.733,0.664,0,-6.163,0.557
-44hzCjrPUo6ExAzB9hflWY,spotify:track:44hzCjrPUo6ExAzB9hflWY,"""In My Head""",Jason Derulo,2010,14,110.001,4,198960,C,minor,0.027,0.762,0.733,0,-4.175,0.849
+5BoIP8Eha5hwmRVURkC2Us,spotify:track:5BoIP8Eha5hwmRVURkC2Us,"""In My Head""",Jason Derulo,2010,14,110.009,4,199027,C,minor,0.0266,0.762,0.748,0,-4.15,0.851
 60jzFy6Nn4M0iD1d94oteF,spotify:track:60jzFy6Nn4M0iD1d94oteF,"""Rude Boy""",Rihanna,2010,15,173.906,4,222920,B,major,0.113,0.563,0.75,0,-4.496,0.812
 7rl7ao5pb9BhvAzPdWStxi,spotify:track:7rl7ao5pb9BhvAzPdWStxi,"""Telephone""",Lady Gaga featuring Beyoncé,2010,16,122.021,4,220627,F,minor,0.00587,0.825,0.832,0.000789,-5.853,0.713
 5jzKL4BDMClWqRguW5qZvh,spotify:track:5jzKL4BDMClWqRguW5qZvh,"""Teenage Dream""",Katy Perry,2010,17,120.011,4,227741,A#/Bb,major,0.0162,0.719,0.798,2.34e-06,-4.582,0.591
@@ -4479,7 +4485,7 @@ id,uri,title,artists,year,rank,tempo,time_signature,duration_ms,key,mode,acousti
 0gY2iq0xJPRoIB1PScKSw4,spotify:track:0gY2iq0xJPRoIB1PScKSw4,"""Honey Bee""",Blake Shelton,2011,67,205.57,4,210720,E,major,0.00167,0.481,0.849,1.49e-06,-5.131,0.723
 6qn9YLKt13AGvpq9jfO8py,spotify:track:6qn9YLKt13AGvpq9jfO8py,"""We Found Love""",Rihanna featuring Calvin Harris,2011,69,127.986,4,215227,C#/Db,major,0.025,0.734,0.766,0.00138,-4.485,0.6
 2Adn2LNgkHMH5TelQVAu4n,spotify:track:2Adn2LNgkHMH5TelQVAu4n,"""Pretty Girl Rock""",Keri Hilson,2011,70,160.014,4,243920,B,minor,0.203,0.666,0.87,0,-5.004,0.9
-4JCgZ7jgFnNFKD0s53S4d4,spotify:track:4JCgZ7jgFnNFKD0s53S4d4,"""Yoü and I""",Lady Gaga,2011,71,127.119,4,307347,D,major,0.0734,0.506,0.708,0,-4.674,0.545
+6rkAY9rk1NTFB94QxG3LJR,spotify:track:6rkAY9rk1NTFB94QxG3LJR,"""Yoü and I""",Lady Gaga,2011,71,127.083,4,307347,D,major,0.075,0.518,0.709,0,-5.234,0.514
 1tAutlhI9FwnKn7fVgmd5P,spotify:track:1tAutlhI9FwnKn7fVgmd5P,"""Without You""",David Guetta featuring Usher,2012,50,127.885,4,208133,D,major,0.227,0.608,0.614,3.82e-06,-3.727,0.402
 3DrjZArsPsoqbLzUZZV1Id,spotify:track:3DrjZArsPsoqbLzUZZV1Id,"""Back to December""",Taylor Swift,2011,74,141.893,4,293027,D,major,0.117,0.529,0.67,0,-4.663,0.286
 1nVLAEzhBXMJLR5zAl90Nl,spotify:track:1nVLAEzhBXMJLR5zAl90Nl,"""Crazy Girl""",Eli Young Band,2011,76,151.343,3,200707,E,major,0.000415,0.366,0.651,0.00526,-3.842,0.257
@@ -4703,7 +4709,7 @@ id,uri,title,artists,year,rank,tempo,time_signature,duration_ms,key,mode,acousti
 794F99D5BQHS5ZGRXAs7I5,spotify:track:794F99D5BQHS5ZGRXAs7I5,"""Anaconda""",Nicki Minaj,2014,36,129.994,4,260240,A,major,0.0668,0.964,0.605,7.78e-06,-6.223,0.646
 12KUFSHFgT0XCoiSlvdQi4,spotify:track:12KUFSHFgT0XCoiSlvdQi4,"""Break Free""",Ariana Grande featuring Zedd,2014,37,129.956,4,214840,G,minor,0.0064,0.687,0.702,4.35e-05,-5.324,0.284
 32lm3769IRfcnrQV11LO4E,spotify:track:32lm3769IRfcnrQV11LO4E,"""Bailando""",Enrique Iglesias featuring Descemer Bueno and Gente de Zona,2014,38,91.017,4,243413,G,major,0.0426,0.723,0.777,3.68e-06,-3.503,0.961
-51thVLZst41l4fFH6xHvgp,spotify:track:51thVLZst41l4fFH6xHvgp,"""Burn""",Ellie Goulding,2014,39,86.975,4,231049,C#/Db,major,0.274,0.313,0.714,0,-6.94,0.28
+7bp7equqMvmBaPc2J1KRKC,spotify:track:7bp7equqMvmBaPc2J1KRKC,"""Burn""",Ellie Goulding,2014,39,86.975,4,231049,C#/Db,major,0.274,0.313,0.714,0,-6.94,0.28
 2sLwPnIP3CUVmIuHranJZU,spotify:track:2sLwPnIP3CUVmIuHranJZU,"""Wiggle""",Jason Derulo featuring Snoop Dogg,2014,40,81.946,4,193296,A,minor,0.0802,0.697,0.621,0,-6.886,0.721
 3s4U7OHV7gnj42VV72eSZ6,spotify:track:3s4U7OHV7gnj42VV72eSZ6,"""Rather Be""",Clean Bandit featuring Jess Glynne,2014,41,120.97,4,227833,B,major,0.162,0.799,0.586,2.03e-06,-6.735,0.549
 4q6dqyGM25sKFU8nYAGRe4,spotify:track:4q6dqyGM25sKFU8nYAGRe4,"""Show Me""",Kid Ink featuring Chris Brown,2014,43,98.098,4,217800,G,major,0.0354,0.711,0.508,0,-7.299,0.665
@@ -4840,7 +4846,7 @@ id,uri,title,artists,year,rank,tempo,time_signature,duration_ms,key,mode,acousti
 5O2P9iiztwhomNh8xkR9lJ,spotify:track:5O2P9iiztwhomNh8xkR9lJ,"""Night Changes""",One Direction,2015,98,120.001,4,226600,G#/Ab,major,0.859,0.672,0.52,0,-7.747,0.37
 5lFDtgWsjRJu8fPOAyJIAK,spotify:track:5lFDtgWsjRJu8fPOAyJIAK,"""Back to Back""",Drake,2015,99,86.976,4,170638,C#/Db,minor,0.00855,0.893,0.48,0,-3.728,0.382
 22mek4IiqubGD9ctzxc69s,spotify:track:22mek4IiqubGD9ctzxc69s,"""How Deep Is Your Love""",Calvin Harris and Disciples,2015,100,122.003,4,212640,B,minor,0.0389,0.738,0.868,0.00171,-4.373,0.336
-6lsEBQX8ZxOBF0ByCB0MJ1,spotify:track:6lsEBQX8ZxOBF0ByCB0MJ1,"""Love Yourself""",Justin Bieber,2016,1,100.126,4,232627,E,major,0.86,0.759,0.401,0,-8.999,0.576
+78XNlCCNkmQEG7ouJCOwY3,spotify:track:78XNlCCNkmQEG7ouJCOwY3,"""Love Yourself""",Justin Bieber,2016,1,100.126,4,232627,E,major,0.86,0.759,0.401,0,-8.999,0.576
 5Fmm03KjMWABJ1J5j7ekpS,spotify:track:5Fmm03KjMWABJ1J5j7ekpS,"""Sorry""",Justin Bieber,2016,2,100.036,4,201747,C,minor,0.0855,0.68,0.764,0,-3.636,0.41
 1zi7xx7UVEFkmKfv06H8x0,spotify:track:1zi7xx7UVEFkmKfv06H8x0,"""One Dance""",Drake featuring Wizkid and Kyla,2016,3,103.967,4,173987,C#/Db,major,0.00776,0.792,0.625,0.0018,-5.609,0.37
 72TFWvU3wUYdUuxejTTIzt,spotify:track:72TFWvU3wUYdUuxejTTIzt,"""Work""",Rihanna featuring Drake,2016,4,91.974,4,219320,B,major,0.0752,0.725,0.534,0,-6.238,0.558
